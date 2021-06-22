@@ -1,0 +1,200 @@
+
+body {
+/*Création d'un fond d'arriere plan dégradé*/
+	background-image: linear-gradient(70deg, #f9fafb, #f9fafb);
+	background-repeat: no-repeat;
+	height: auto;
+
+}
+
+
+
+nav{
+	/*Création d'un fond dégradé pour la barre de navigation*/
+	background-image: linear-gradient(70deg, #d00053, #d00053); 
+	background-repeat: no-repeat;
+	/*height: 100px;*/
+}
+
+p{
+
+	margin: 20px;
+	display: flex;
+	flex-direction: column;
+	margin-left: auto;
+    margin-right: auto;
+    width: 15em;
+
+}
+
+label{
+	/*Mise en couleur et en gras des label*/
+	color: #f9fafb;
+	font-weight: bold;
+}
+input{
+
+	/*Arrondissement des bord et alignement du text au centre du formulaire*/
+	border-radius: 30px;
+	text-align: center;
+	
+}
+.lycee{
+	font-size: 1.2em;
+	color: #f9fafb;
+	margin-top: 200px;
+
+	
+}
+.adresse{
+	color: #f9fafb;
+	margin-top: 10px;
+}
+
+.telephone{
+	color: #f9fafb;
+	margin-top: 10px;
+}
+
+
+
+.incident{
+	color: #f9fafb;
+	font-size: 1.2em;
+	font-weight: bold;
+	background: url(bleu.jpg) no-repeat center center;
+	background-size: cover;
+	border-radius: 10px;
+	height: 800px;
+	width: 800px;
+	margin-left: 500px;
+	background-position: center;
+	background-attachment: fixed;
+	margin: auto;
+	
+     border : 2px solid #000000;
+  
+}
+
+textarea {
+
+	border-radius: 30px;
+	text-align: center;
+}
+
+.btn{
+	
+	border-radius: 10px;
+	font-weight: bold;
+	color: #FFFDFD;
+
+
+}
+.nav-item{
+	
+	
+	margin-left: 2px;
+}
+
+.form{
+	/*Mise en place d'une image en arriere plan */
+	background: url(bleu.jpg) no-repeat center center;
+	
+	border-radius: 10px;
+	height: 800px;
+	width: 800px;
+	margin-left: 500px ;
+	background-position: center;
+	background-attachment: fixed;
+	margin: auto;
+	/*margin-top: 12px;*/
+	border : 2px solid #000000;
+
+}
+
+
+.contact{
+	background: url(bleu.jpg) no-repeat center center;
+	background-size: cover;
+	border-radius: 10px;
+	height: 800px;
+	width: 800px;
+	margin-left: 500px;
+	background-position: center;
+	background-attachment: fixed;
+	margin: auto;
+	/*margin-top: 12px;*/
+	border : 2px solid #000000;
+
+
+}
+
+
+.text{
+	color: #FFFDFD;
+	margin-top: 200px;
+	text-align: center;
+}
+
+.titre{
+	margin-left: 400px;
+}
+
+.signaler{
+	width: 200px;
+	
+
+}
+
+.ent{
+	margin-left: 10px;
+}
+.fo-footer{
+	background-color:  #d00053;
+	height: 80px;
+	
+	
+	
+}
+.fo-footer_nom{
+	
+	color: #f9fafb;
+	margin-left: 80px;
+}
+
+
+.bi{
+	height: 58px;
+	color: #d00053 ;
+	
+}
+
+.offcanvas{
+	background-color: #d00053;
+}
+
+.option{
+	text-align: center;
+
+}
+
+.dropdown-item{
+	border-radius: 10px;
+}
+
+.ent{
+	border-radius: 10px;
+}
+
+.rounded{
+	border-radius: 10px;
+}
+
+.image{
+	border : 2px solid #000000;
+	border-radius: 10px;
+}
+
+.dropdown-menu{
+	background-color: #d00053;
+}
