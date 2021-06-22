@@ -1,0 +1,33 @@
+{
+  "start_url": "/index.php",
+  "lang": "fr",
+  "dir": "ltr",
+  "name": "Assistance",
+  "short_name": "Assistance",
+  "scope": "/",
+  "description": "L'application qui vous  apporte une assistance !",
+
+  "start_url": "/index.php",
+  "display": "fullscreen",
+  "orientation": "portrait-primary",
+  "theme_color": "aliceblue",
+  "background_color": "red",
+
+  "icons": [{
+    "src": "icon/icon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }, {
+    "src": "icon/icon2.png",
+    "sizes": "512x512"
+  }, {
+    "src": "icon/icon3.png",
+    "sizes": "512x512"
+  }],
+  "related_applications": [{
+    "platform": "web"
+  }, {
+    "platform": "play",
+    "url": "https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched"
+  }]
+} 
